@@ -1,0 +1,12 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.penny.planner",
+      "sha256_cert_fingerprints": [
+        "71:28:D4:90:03:B6:12:91:29:41:AF:47:CE:42:7A:D5:28:F7:7D:46:1C:85:09:DE:4C:55:D5:AD:6E:30:13:39"
+      ]
+    }
+  }
+]
